@@ -1,0 +1,157 @@
+body {
+    font-family: 'Merriweather',serif;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Sacramento',cursive;
+    font-size: 5.625rem;
+    margin-bottom: 0%;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat',sans-serif;
+    color: #66BFBF;
+    /*font-weight: normal;*/
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-family: 'Montserrat',sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    padding: 40px;
+    text-decoration: none;
+    color: #11999E;
+    position: relative;
+    bottom: 20px;
+    
+
+}
+
+.top-container {
+    padding-top: 80px;
+    background-color: #E4F9F5;
+    margin: 0px;
+    position: relative;
+}
+
+.gif {
+    position: absolute;
+    bottom: 550px;
+    
+}
+
+.gif1 {
+    position: absolute;
+    bottom: 550px;
+    left: 1300px;
+    width: 50px;
+}
+
+
+
+
+.middle-container {
+  
+   
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    padding: 20px 0px;
+    padding-top: 60px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+
+.top-cloud {
+    
+    position: relative;
+    left: 350px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 350px;
+    top: 360px;
+    margin-bottom: 200px;
+}
+
+.title-text {
+    position: relative;
+    color: #66BFBF;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.esports {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.coding {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+/*.skill-description1{
+    clear: left;
+}
+
+.skill-description2 {
+    clear: right;
+}*/
+
+hr {
+    color: #78cccc;
+    width: 50px;
+   border-style: dotted none none none;
+   border-width: 5px;
+   padding: 30px 0px 20px 0px;
+
+   
+}
+
+.aboutme {
+    width: 500px;
+    margin: 0 auto 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.aboutme1 {
+    width: 500px;
+    margin: 0 auto 0 auto;
+  
+    padding-bottom: 30px;
+}
+
+.btn {
+    color: #66BFBF;
+}
+
+a:hover {
+    color: white;
+}
